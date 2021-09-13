@@ -15,7 +15,7 @@ This script supports whatsapp name formatting and the usual type of name.
 
 ## How to use
 
-Simply put the path of your folder and run the script. It will recursively traverse through
+Run the script and insert into the console the path of your folder. It will recursively traverse through
 all the folders and files and edit the `date taken` metadata. 
 
 ## Resources
@@ -36,3 +36,4 @@ all the folders and files and edit the `date taken` metadata.
  * [os.utime() usage](https://www.tutorialspoint.com/python/os_utime.htm)
  * [Recursively Traverse](https://stackoverflow.com/a/56491685/10805602)
  * [Extract the Filename](https://stackoverflow.com/a/8384788/10805602)
+ * [Regular Expression Syntax Reference](https://www.jetbrains.com/help/pycharm/regular-expression-syntax-reference.html)
